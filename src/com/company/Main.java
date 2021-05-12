@@ -93,9 +93,9 @@ public class Main {
                 RED + "Future Stars:\n" + RESET + "     Jugadores que actualmente no estan en la NBA pero nadie duda que estaran.\n"+
                 RED + "Celebrity:\n" + RESET + "     Jugadores que han participado en el All-Star game como celebridades.\n"+
                 RED + "Rosters NBA (2020-2021):\n" + RESET +
-                "     -Miami Heat\n" + "     -Los Angeles Lakers" + "     -Dallas Mavericks"+
-                "     -Brooklyn Nets\n"+ "     -Milwaukee Bucks"+ "     -Denver Nuggets"+
-                "     -Philadelphia 76ers\n"+"     -Atlanta Hawks"+ "     -Boston Celtics"+
+                "     -Miami Heat" + "     -Los Angeles Lakers" + "     -Dallas Mavericks\n"+
+                "     -Brooklyn Nets"+ "     -Milwaukee Bucks"+ "     -Denver Nuggets\n"+
+                "     -Philadelphia 76ers"+"     -Atlanta Hawks"+ "     -Boston Celtics\n"+
                 RED + "Rosters Euroliga (2020-2021):\n" + RESET +
                 "     -Real Madrid\n" + "     -FC Barcelona\n" +
                 RED + "Recuento de cartas:\n" + RESET +

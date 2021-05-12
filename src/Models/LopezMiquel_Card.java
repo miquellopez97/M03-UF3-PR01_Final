@@ -32,6 +32,10 @@ public class LopezMiquel_Card {
         this.team = team;
     }
 
+    public static int upgradecard(int actualAtk, int newAtk) {
+        return actualAtk + newAtk;
+    }
+
     @Override
     public String toString() {
         return  name + " " + surname +  RED + " POS: " + RESET + position +RED + " OVR: " + RESET + ovr + RED + " ATK: " + RESET + atk + RED + " DEF: " +
